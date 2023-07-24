@@ -1,11 +1,11 @@
-About yargy
-===========
+About yargy-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/yargy-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/natasha/yargy
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/yargy-feedstock/blob/main/LICENSE.txt)
 
 Summary: Rule-based facts extraction for Russian language
 

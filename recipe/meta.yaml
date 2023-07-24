@@ -1,5 +1,5 @@
 {% set name = "yargy" %}
-{% set version = "0.15.1" %}
+{% set version = "0.16.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/yargy-{{ version }}.tar.gz
-  sha256: 3cdc7a816081f4587e82aa79686407e347d5718b2d41305f61ace64ad6fac48d
+  sha256: c917eefb32a40c23c46b6ca88d68927072dd00ab94e90fd5dc6ab0a62b59b593
 
 build:
   skip: true  # [win]
